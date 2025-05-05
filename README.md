@@ -29,6 +29,6 @@ Gerêncie diversos conteúdos do servidor para seus membros.<br>
 **Desenvolvedor:** Aklads - [Ruan Martins]  
 **Email:** aklads@outlook.com  
 **Discord:** Aklads  
-**Sugestões e bugs:** [Abrir Issue](https://github.com/SeuUsuario/Akira/issues)
+**Sugestões e bugs:** [Abrir Issue](https://github.com/Aklads/Akira/issues)
 
 ---
