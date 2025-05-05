@@ -7,3 +7,9 @@
 # Sistema de Gestão
 Gerência diversos conteúdos do servidor para seus membros.<br>
 ![image](https://github.com/user-attachments/assets/e512573a-24d5-4c8f-ba92-46b66d6c3b5c)
+
+## Sistema de Pesca
+<p>
+  Colete peixes de diversas raridades e preços para adquirir muitas moedas e se divertir no servidor!<br>
+  ![image](https://github.com/user-attachments/assets/6218c8b6-5ed9-49b8-9fb6-e743af0c98fe)
+</p>
