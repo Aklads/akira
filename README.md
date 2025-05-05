@@ -1,8 +1,8 @@
-# Bot Akira para Discord
-<p align="center">
-  Akira Seu companheiro de jornada.
-  Explore comandos, ganhe XP, compre itens e viva aventuras em alto-mar.
-</p>
+# 🤖 Akira – Bot Multifuncional para Discord
+
+**Akira** é um bot robusto e personalizável que une administração de servidor, interações sociais e sistemas gamificados para manter sua comunidade engajada de forma divertida e segura.
+
+---
 
 # Sistema de Gestão
 Gerêncie diversos conteúdos do servidor para seus membros.<br>
