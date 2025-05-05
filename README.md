@@ -24,3 +24,11 @@ Gerêncie diversos conteúdos do servidor para seus membros.<br>
 ![image](https://github.com/user-attachments/assets/69a2b40e-1f87-4160-8559-f54aae2db3a8)<br>
 ![image](https://github.com/user-attachments/assets/c63a3f57-8850-400e-b1a8-a594841d45eb)
 
+## 📞 Contato
+
+**Desenvolvedor:** Aklads - [Ruan Martins]  
+**Email:** aklads@outlook.com  
+**Discord:** Aklads  
+**Sugestões e bugs:** [Abrir Issue](https://github.com/SeuUsuario/Akira/issues)
+
+---
