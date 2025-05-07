@@ -24,15 +24,15 @@ Permita que membros escolham suas cores favoritas com comandos ou menus suspenso
 ### 🎁 Sorteios
 Crie sorteios com duração, prêmios e ganhadores definidos via interface intuitiva.
 
-> 🖼️ 
+> ![image](https://github.com/user-attachments/assets/87f700ad-c676-46b4-b867-026b95573cec)
+> ![image](https://github.com/user-attachments/assets/5eeb8afb-b05e-4bb0-9bea-e88d7e69c241)
 
 ---
 
 ### 💌 Sistema de Cartas
 Envie cartas entre membros e demonstre carinho por aquela pessoa especial.
 
-> ![image](https://github.com/user-attachments/assets/87f700ad-c676-46b4-b867-026b95573cec)
-> ![image](https://github.com/user-attachments/assets/5eeb8afb-b05e-4bb0-9bea-e88d7e69c241)
+> 🖼️
 
 
 
