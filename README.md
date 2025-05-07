@@ -32,9 +32,8 @@ Crie sorteios com duração, prêmios e ganhadores definidos via interface intui
 ### 💌 Sistema de Cartas
 Envie cartas entre membros e demonstre carinho por aquela pessoa especial.
 
-> 🖼️
-
-
+> ![image](https://github.com/user-attachments/assets/104d7ac9-0246-45fa-8255-0c10e7db544b)
+> ![image](https://github.com/user-attachments/assets/9d633625-caf3-4395-ba72-f13323c7a01d)
 
 ---
 
