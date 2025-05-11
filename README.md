@@ -18,6 +18,14 @@ Permita que membros escolham suas cores favoritas com comandos ou menus suspenso
 
 > ![image](https://github.com/user-attachments/assets/b98bce71-74a7-4dd7-be16-d73c236e46c0)
  
+### 🧝 Perfil Personalizado
+Personalize seu perfil do servidor com frases e cores além de mostrar algumas estatísticas, como nível, recompensa diária e dupla no servidor.
+
+> ![image](https://github.com/user-attachments/assets/b55c1e01-e2c6-4f53-9c32-bdb126e05e15) <br>
+> ![image](https://github.com/user-attachments/assets/040ac350-023d-49b2-87ed-1987aa92bae5) 
+> ![image](https://github.com/user-attachments/assets/573af44a-a0e6-4ebb-834c-29635347cfe7)
+
+
 
 ---
 
@@ -46,9 +54,6 @@ Desafie outros membros em jogos rápidos:
 > ![image](https://github.com/user-attachments/assets/74eef391-97df-4458-a30b-1129028f5561)
 > ![image](https://github.com/user-attachments/assets/4e355081-2997-4ff5-b4c2-055973077f7b)
 > ![image](https://github.com/user-attachments/assets/c7eaf007-136b-42c4-8b67-47116494ba02)
-
-
-
 
 ---
 
